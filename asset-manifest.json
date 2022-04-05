@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-three-fps-movements/static/css/main.51f0aeb6.css",
+    "main.js": "/react-three-fps-movements/static/js/main.6052fceb.js",
+    "static/media/color.jpg": "/react-three-fps-movements/static/media/color.a6ea7ea683db3dbf1ae0.jpg",
+    "static/media/normal.jpg": "/react-three-fps-movements/static/media/normal.6d05b9fe50a09f055b9c.jpg",
+    "static/media/ambientOcclusion.jpg": "/react-three-fps-movements/static/media/ambientOcclusion.52d513d7caf817d0c9b1.jpg",
+    "static/media/roughness.jpg": "/react-three-fps-movements/static/media/roughness.c4167c276e23526bf787.jpg",
+    "static/media/height.jpg": "/react-three-fps-movements/static/media/height.855dc782cb9037740e6f.jpg",
+    "static/media/metalness.jpg": "/react-three-fps-movements/static/media/metalness.b55cd732e2813ae3c548.jpg",
+    "static/media/alpha.jpg": "/react-three-fps-movements/static/media/alpha.ba6b22be64ee46f5ce1a.jpg",
+    "index.html": "/react-three-fps-movements/index.html",
+    "main.51f0aeb6.css.map": "/react-three-fps-movements/static/css/main.51f0aeb6.css.map",
+    "main.6052fceb.js.map": "/react-three-fps-movements/static/js/main.6052fceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f0aeb6.css",
+    "static/js/main.6052fceb.js"
+  ]
+}
