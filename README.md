@@ -15,3 +15,5 @@ npm install
 # Run the local client server at localhost:3000
 npm start
 ```
+
+![image](https://user-images.githubusercontent.com/91427805/188626394-9d24d2f7-7cb6-45f9-a9e5-9b58bbcfeeda.png)
